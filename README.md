@@ -25,6 +25,11 @@
 - Thanks for using IoTa Discord Cloner.
 - There will be more IoTa tools in the making and will be uploaded to github.
 
+### Attention:
+- DO NOT REBRAND THIS AND DO NOT SELL IT
+- THIS IS A FREE DISCORD SERVER CLONER MADE AND PROVIDED BY qPro#0001 / CHEAPBOOSTS
+- IF YOU GOT SOLD THIS YOU GOT SCAMMED
+
 <p align="center">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/qPro420/mmc-redeemer?style=for-the-badge&logo=stylelint&color=black">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/qPro420/mmc-redeemer?style=for-the-badge&logo=stylelint&color=black">
