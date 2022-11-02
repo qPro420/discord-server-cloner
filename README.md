@@ -2,7 +2,7 @@
 
 `IoTa Discord Server Cloner.`
   <br><br>
-  <img src="https://imgur.com/a/qRH5guh">
+  <img src="https://github.com/qPro420/discord-server-cloner/blob/main/image.png">
 </p>
 
 ### Usage:
